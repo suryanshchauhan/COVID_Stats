@@ -8,4 +8,5 @@ Check out the deployed project: https://suryansh.shinyapps.io/Suryansh-COVID/
 <br>
 <br>
 Here is a screenshot of the deployed app:
+<br>
 <img width="1134" alt="image" src="https://user-images.githubusercontent.com/66567078/212440571-6247b9ea-3b52-481d-8a36-b16bcdedaa01.png">
